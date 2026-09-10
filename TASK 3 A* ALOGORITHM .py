@@ -59,5 +59,6 @@ path = a_star('A', 'G')
 print("Optimal Path:", path)
 
 
+output 
 
 Optimal Path: ['A', 'B', 'D', 'G']
