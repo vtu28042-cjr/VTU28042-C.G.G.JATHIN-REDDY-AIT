@@ -1,5 +1,3 @@
-# Hill Climbing Algorithm
-
 grid = [
     [2, 4, 7, 5, 3],
     [3, 6, 9, 8, 4],
@@ -74,7 +72,7 @@ print("Maximum Treasure Found:",
       grid[current_row][current_col])
 
 
-
+output
 
 TREASURE HUNT - HILL CLIMBING
 --------------------------------
